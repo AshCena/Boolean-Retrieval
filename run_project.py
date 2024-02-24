@@ -1,6 +1,5 @@
 '''
-@author: Sougata Saha
-Institute: University at Buffalo
+@author: Atish Sinha
 '''
 
 from tqdm import tqdm
