@@ -1,5 +1,5 @@
 '''
-@author: Sougata Saha
+@author: Atish Sinha
 Institute: University at Buffalo
 '''
 
